@@ -122,7 +122,8 @@ Stereo Labs Zed API Documentation: https://www.stereolabs.com/docs/video
    
 Open CV Documentation: https://docs.opencv.org/4.x/
 
-Link to video demonstration: 
+Link to video demonstration: https://youtu.be/j1zWYBCM5Us
+
 
 
 
